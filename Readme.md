@@ -25,17 +25,6 @@ A modern and responsive **Weather App** built using **HTML, CSS, and JavaScript*
 
 ---
 
-## 📸 Screenshot
-
-> Add a screenshot of your Weather App here.
-
-Example:
-
-```
-screenshots/weather-app.png
-```
-
----
 
 ## 📂 Project Structure
 
